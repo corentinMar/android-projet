@@ -41,7 +41,7 @@ Après connexion, on effectue la partie 2.
 + Utiliser un Picker pour l'âge : https://github.com/material-components/material-components-android/blob/master/docs/components/Picker.md
 
 
-![meme](meme.jpg)
+![meme](https://scontent-mrs2-1.xx.fbcdn.net/v/t1.0-9/71071242_2896011177084493_8482162506649829376_n.jpg?_nc_cat=108&_nc_oc=AQmIiyU1SgReg3YYc9U7MS4nCMM6lowqoV5N-54tRRzea0TGVsY0WYmkejuV2uWjZ9M&_nc_ht=scontent-mrs2-1.xx&oh=e394646f78cd13f1f556175b4c90a269&oe=5E2A08A6)
 
 ## Partie 2
 
