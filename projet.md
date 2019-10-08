@@ -49,10 +49,16 @@ Après connexion, on effectue la partie 2.
 
 Pour réaliser la partie 2, vous trouverez toutes les informations et les codes d'aide dans le TP4.
 
+Travail à faire :
 + En sélectionnant l'API de votre choix, vous devez récupérer des données puis les afficher dans une liste (RecyclerView)
 + Lors du clic sur un élément, cela ouvre une vue détaillée de l'élément
 
-Exemple d'API : 
+Pensez aux petits détails, à l'ergonomie, au design...
+
+### Bonus
++ Filtrer les résultats / Rafraichissement : https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0
+
+Exemples d'API : 
 + Bières : https://data.opendatasoft.com/explore/dataset/open-beer-database%40public-us/table/?flg=fr
 + Séries
 + Autres: https://data.opendatasoft.com/explore/?disjunctive.language&disjunctive.source_domain_title&disjunctive.theme&disjunctive.semantic.classes&disjunctive.semantic.properties&sort=explore.popularity_score
