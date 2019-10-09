@@ -12,9 +12,11 @@ Les TPs :
 + TP3 : https://www.github.com/corentinMar/android-tp3
 + TP4 : https://www.github.com/corentinMar/android-tp4
 
-# Evaluation
+# Evaluation / Quiz
 
 A venir
+
+http://giphygifs.s3.amazonaws.com/media/3XG5igjvWe2wE/giphy.gif
 
 # Projet
 
