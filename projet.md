@@ -39,6 +39,8 @@ L'utilisateur doit pouvoir accéder à une interface de connexion, s'il n'a pas 
 
 Pensez aux petits détails (affichage message erreur comme Toast ou Snackbar) si erreur connexion/inscription, à l'ergonomie, au design...
 
+⚠️ NOTEZ que dans le TP4, un interlude vous explique comment changer le composant date (pour éviter les bugs sur certains smartphones)
+
 Après connexion, on effectue la partie 2.
 
 ### Bonus
