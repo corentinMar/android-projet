@@ -16,7 +16,7 @@ Les TPs :
 
 A venir
 
-http://giphygifs.s3.amazonaws.com/media/3XG5igjvWe2wE/giphy.gif
+!()[http://giphygifs.s3.amazonaws.com/media/3XG5igjvWe2wE/giphy.gif]
 
 # Projet
 
