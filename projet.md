@@ -20,6 +20,8 @@ A venir
 
 # Projet
 
+## DEADLINE : 29 novembre 2019 00:00
+
 Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
 ## Partie 1
