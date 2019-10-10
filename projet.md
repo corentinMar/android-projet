@@ -1,5 +1,3 @@
-https://forms.gle/BbZYJTMmLWYPRUX56
-
 # Evaluation
 
 L'évaluation se déroule en deux étapes :
