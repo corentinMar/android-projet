@@ -20,13 +20,14 @@ A venir
 
 # Projet
 
-## DEADLINE : 29 novembre 2019 00:00
+## DEADLINE : 29 décembre 2019 00:00
 
 Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
 ## Partie 1
 
 ⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/a/2ADODNIt ⚠️⚠️
+⚠️⚠️ Renseignez votre nom dans le READ ME ⚠️⚠️
 
 ### Travail à faire
 Vous devez créer une application mobile 📱  :
