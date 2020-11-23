@@ -68,11 +68,6 @@ Pensez aux petits détails, à l'ergonomie, au design...
 ### Bonus
 + Filtrer les résultats / Rafraichissement : https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0
 
-## Résultats
-⚠️ **EN RESULTAT, je vous demanderai une vidéo de votre projet qui comprend la connexion de l'utilisateur et l'accès à l'API puis l'accès aux détails de l'élément sélectionné dans votre liste (montez bien tout ce que vous avez fait)**
-
-Egalement, je regarderai votre code et lancerai votre projet (sans API) de mon côté. Il faut alors penser à gérer la possibilité que votre API ne réponde pas (c'est à dire que l'application ne doit pas planter une fois la connexion utilisateur effectuer -> gestion d'exception)
-
 
 ### En attendant votre API
 Si vous n'avez pas votre API de disponible, vous pouvez en attendant juste afficher la liste de vos données
@@ -80,3 +75,9 @@ Si vous n'avez pas votre API de disponible, vous pouvez en attendant juste affic
 + Evenements publics : https://data.opendatasoft.com/explore/dataset/evenements-publics-cibul%40public/table/?disjunctive.tags&disjunctive.placename&disjunctive.city
 + Fromages : https://data.opendatasoft.com/explore/dataset/fromagescsv-fromagescsv%40public/table/?disjunctive.fromage
 + Autres: https://data.opendatasoft.com/explore/?disjunctive.language&disjunctive.source_domain_title&disjunctive.theme&disjunctive.semantic.classes&disjunctive.semantic.properties&sort=explore.popularity_score
+
+
+## Résultats
+⚠️ **EN RESULTAT, je vous demanderai une vidéo de votre projet qui comprend la connexion de l'utilisateur et l'accès à l'API puis l'accès aux détails de l'élément sélectionné dans votre liste (montez bien tout ce que vous avez fait)**
+
+Egalement, je regarderai votre code et lancerai votre projet (sans API) de mon côté. Il faut alors penser à gérer la possibilité que votre API ne réponde pas (c'est à dire que l'application ne doit pas planter une fois la connexion utilisateur effectuer -> gestion d'exception).
