@@ -1,10 +1,10 @@
 # Evaluation
 
 L'évaluation se déroule en deux étapes :
-+ Une évaluation d'une dizaine de minutes sur les connaissances
++ Une évaluation d'une vingtaine de minutes sur les connaissances
 + Un projet
 
-Le CM : https://drive.google.com/file/d/16aGFlLrdP7UtyJsVZ2LtNTsUPFHU8aVx/view?usp=sharing
+Le CM : https://drive.google.com/file/d/1bJVJE60O_7VqiIcZ-gpQ6Qpt70c1dAqb/view?usp=sharing
 
 Les TPs :
 + TP1 : https://www.github.com/corentinMar/android-tp1
@@ -20,7 +20,7 @@ A venir
 
 # Projet
 
-## DEADLINE : 29 décembre 2019 00:00
+## DEADLINE : 04 janvier 2021 - Cours Système embarqué
 
 Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
@@ -58,7 +58,7 @@ Après connexion, on effectue la partie 2.
 Pour réaliser la partie 2, vous trouverez toutes les informations et les codes d'aide dans le TP4.
 
 ### Travail à faire
-+ En sélectionnant l'API de votre choix, vous devez récupérer des données puis les afficher dans une liste (RecyclerView)
++ En vous connectant à votre API créée en cours de Système Embarqué/IoT, vous devez récupérer des données puis les afficher dans une liste (RecyclerView)
 + Lors du clic sur un élément, cela ouvre une vue détaillée de l'élément
 
 Pensez aux petits détails, à l'ergonomie, au design...
@@ -66,7 +66,9 @@ Pensez aux petits détails, à l'ergonomie, au design...
 ### Bonus
 + Filtrer les résultats / Rafraichissement : https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0
 
-### Exemples d'API
+### En attendant votre API
+Si vous n'avez pas votre API de disponible, vous pouvez en attendant juste afficher la liste de vos données
 + Bières : https://data.opendatasoft.com/explore/dataset/open-beer-database%40public-us/table/?flg=fr
-+ Séries
++ Evenements publics : https://data.opendatasoft.com/explore/dataset/evenements-publics-cibul%40public/table/?disjunctive.tags&disjunctive.placename&disjunctive.city
++ Fromages : https://data.opendatasoft.com/explore/dataset/fromagescsv-fromagescsv%40public/table/?disjunctive.fromage
 + Autres: https://data.opendatasoft.com/explore/?disjunctive.language&disjunctive.source_domain_title&disjunctive.theme&disjunctive.semantic.classes&disjunctive.semantic.properties&sort=explore.popularity_score
