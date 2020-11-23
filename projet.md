@@ -26,9 +26,9 @@ Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
 ## Partie 1
 
-⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/g/fyVHxFgu ⚠️⚠️
-⚠️⚠️ Renseignez votre nom dans le NOM DU GROUPE et le READ ME ⚠️⚠️
-⚠️⚠️ PARTAGEZ-vous bien les tâches (pour ne pas avoir juste une personne qui a tout fait) ⚠️⚠️
++⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/g/fyVHxFgu ⚠️⚠️
++⚠️⚠️ Renseignez votre nom dans le NOM DU GROUPE et le READ ME ⚠️⚠️
++⚠️⚠️ PARTAGEZ-vous bien les tâches (pour ne pas avoir juste une personne qui a tout fait) ⚠️⚠️
 
 ### Travail à faire
 Vous devez créer une application mobile 📱 :
@@ -70,6 +70,7 @@ Pensez aux petits détails, à l'ergonomie, au design...
 
 ### Résultats
 ⚠️ **EN RESULTAT, je vous demanderai une vidéo de votre projet qui comprend la connexion de l'utilisateur et l'accès à l'API puis l'accès aux détails de l'élément sélectionné dans votre liste (montez bien tout ce que vous avez fait)**
+
 Egalement, je regarderai votre code et lancerai votre projet (sans API) de mon côté. Il faut alors penser à gérer la possibilité que votre API ne réponde pas (c'est à dire que l'application ne doit pas planter une fois la connexion utilisateur effectuer -> gestion d'exception)
 
 
