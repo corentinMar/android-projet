@@ -68,7 +68,7 @@ Pensez aux petits détails, à l'ergonomie, au design...
 ### Bonus
 + Filtrer les résultats / Rafraichissement : https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0
 
-### Résultats
+## Résultats
 ⚠️ **EN RESULTAT, je vous demanderai une vidéo de votre projet qui comprend la connexion de l'utilisateur et l'accès à l'API puis l'accès aux détails de l'élément sélectionné dans votre liste (montez bien tout ce que vous avez fait)**
 
 Egalement, je regarderai votre code et lancerai votre projet (sans API) de mon côté. Il faut alors penser à gérer la possibilité que votre API ne réponde pas (c'est à dire que l'application ne doit pas planter une fois la connexion utilisateur effectuer -> gestion d'exception)
