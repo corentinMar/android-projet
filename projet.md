@@ -26,9 +26,9 @@ Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
 ## Partie 1
 
-+⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/g/fyVHxFgu ⚠️⚠️
-+⚠️⚠️ Renseignez votre nom dans le NOM DU GROUPE et le READ ME ⚠️⚠️
-+⚠️⚠️ PARTAGEZ-vous bien les tâches (pour ne pas avoir juste une personne qui a tout fait) ⚠️⚠️
++ ⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/g/fyVHxFgu ⚠️⚠️
++ ⚠️⚠️ Renseignez votre nom dans le NOM DU GROUPE et le READ ME ⚠️⚠️
++ ⚠️⚠️ PARTAGEZ-vous bien les tâches (pour ne pas avoir juste une personne qui a tout fait) ⚠️⚠️
 
 ### Travail à faire
 Vous devez créer une application mobile 📱 :
