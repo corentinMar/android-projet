@@ -34,10 +34,11 @@ Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 Vous devez créer une application mobile 📱 :
 + qui possède une interface de connexion 
     + identifiant + mot de passe
-+ qui possède une interface de création de comptes
++ qui possède une interface de création de comptes (adaptez ceci par rapport à votre serveur existant)
     + nom, prénom, âge, email, mot de passe, adresse, ville, pays (liste en dur dans le viewmodel (pas besoin de 200 pays 😉) : https://code.luasoftware.com/tutorials/android/android-two-way-data-binding-with-spinner/), sélection du sexe
         + les champs sont obligatoires et doivent respecter les formats.
-+ une base de données pour les utilisateurs
+
+La connexion/inscription s'effectue en relation avec votre API (pas de BDD).
 
 L'utilisateur doit pouvoir accéder à une interface de connexion, s'il n'a pas d'identifiant, il doit pouvoir choisir de s'inscrire.
 
@@ -48,9 +49,7 @@ Pensez aux petits détails (affichage message erreur comme Toast ou Snackbar) si
 Après connexion, on effectue la partie 2.
 
 ### Bonus
-+ Sécuriser la sauvegarde du mot de passe en base
 + Utiliser un Picker pour l'âge : https://github.com/material-components/material-components-android/blob/master/docs/components/Picker.md
-
 
 ![meme](https://media4.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif?cid=ecf05e470aboq2o93j5i9dye18dfv8y1domy7wjvcjydxltn&rid=giphy.gif)
 
@@ -59,9 +58,13 @@ Après connexion, on effectue la partie 2.
 Pour réaliser la partie 2, vous trouverez toutes les informations et les codes d'aide dans le TP4.
 
 ### Travail à faire
-+ En vous connectant à votre API créée en cours de Système Embarqué/IoT, vous devez récupérer des données puis les afficher dans une liste (RecyclerView)
-+ Lors du clic sur un élément, cela ouvre une vue détaillée de l'élément
-+ Si la liste est vide, afficher un message 'aucun élément dans la liste'
++ Lorsque l'utilisateur est connecté, vous devez créer une interface pour intéragir avec votre API et vos objets connectés (nécéssaire pour votre cours de système embarqué).
++ Lorsque que vous récupérez une donnée, vous devez la sauvegarder dans votre base de donnée locale.
+    + Vous devez donc créer une vue liste (RecyclerView) historique qui récapitule l'ensemble des données récupérées en locale et les afficher dedans.
+        + Lors du clic sur un élément, cela ouvre une vue détaillée de l'élément
+    
+Retrofit doc & tuto => https://square.github.io/retrofit/
+Retrofit tuto => https://www.c-sharpcorner.com/article/how-to-use-retrofit-2-with-android-using-kotlin/
 
 Pensez aux petits détails, à l'ergonomie, au design...
 
