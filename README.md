@@ -4,6 +4,8 @@ L'évaluation se déroule en deux étapes :
 + Une évaluation d'une vingtaine de minutes sur les connaissances
 + Un projet
 
+Pour me contacter : corentin.marechal@gmail.com
+
 Le CM : https://drive.google.com/file/d/1bJVJE60O_7VqiIcZ-gpQ6Qpt70c1dAqb/view?usp=sharing
 
 Les TPs :
