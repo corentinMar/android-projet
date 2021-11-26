@@ -1,5 +1,8 @@
 # Evaluation
 
+> QCM https://forms.gle/4XtvujcCMWjVZBXEA
+> Vos retours https://forms.gle/pu5HPRrrGGQnzgiSA
+
 L'évaluation se déroule en deux étapes :
 + Une évaluation d'une vingtaine de minutes sur les connaissances
 + Un projet
