@@ -26,6 +26,8 @@ Le 26 novembre pour durant le dernier créneau
 
 Le but du projet est de réutiliser les connaissances acquises durant les 4 TPs.
 
+** Le projet se réalise par groupe de 2 **
+
 ## Partie 1
 
 + ⚠️⚠️ CREER VOTRE REPO : https://classroom.github.com/a/N00K57UK ⚠️⚠️
